@@ -1,4 +1,4 @@
-# RTK_Project
+# Real-Time Kinematics (RTK) Project
 
 This personal research project is my attempt at an IMU-based state estimator. The objective is to combine acceleration data, GPS position, and (possibly) anemometer speed or optical flow velocity to get our second-order states.
 
